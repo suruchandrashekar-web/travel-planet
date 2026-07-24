@@ -31,7 +31,7 @@ button.addEventListener("click", function () {
 
         alert("Login Successful");
 
-        window.location.href = "../main.html";
+        window.location.href = "./main.html";
 
     }
     else {
