@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verify OTP</title>
+    <link rel="stylesheet" href="verfiy.css">
+</head>
+<body>
+<div class="main">
+    <div class="otp-card">
+        <h1>OTP Verification</h1>
+        <p>
+            We have sent a 6-digit OTP to your email address.
+        </p>
+        <div class="otp-box">
+            <input type="text" maxlength="1">
+            <input type="text" maxlength="1">
+            <input type="text" maxlength="1">
+            <input type="text" maxlength="1">
+            <input type="text" maxlength="1">
+            <input type="text" maxlength="1">
+        </div>
+        <button id="verifyBtn">
+            Verify OTP
+        </button>
+        <p class="resend">
+            Didn't receive OTP?
+            <a href="#" id="resendOtp">
+                Resend OTP
+            </a>
+        </p>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+<script src="verfiy.js"></script>
+</body>
+</html>

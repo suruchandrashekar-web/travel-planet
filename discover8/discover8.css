@@ -1,0 +1,279 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+
+
+body{
+    background:#f7f7f7;
+}
+
+
+
+/* Navbar */
+
+nav{
+
+    height:80px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 8%;
+    background:white;
+
+}
+
+
+.logo{
+
+    color:#0b7a75;
+    font-size:30px;
+
+}
+
+
+nav ul{
+
+    display:flex;
+    gap:30px;
+    list-style:none;
+
+}
+
+
+nav ul li a{
+
+    text-decoration:none;
+    color:black;
+    font-size:18px;
+
+}
+
+
+
+/* Hero */
+
+
+.hero{
+
+    height:550px;
+
+    background:
+    linear-gradient(
+    rgba(0,0,0,0.4),
+    rgba(0,0,0,0.4)
+    ),
+    url("https://images.unsplash.com/photo-1530789253388-582c481c54b0");
+
+    background-size:cover;
+    background-position:center;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+
+}
+
+
+
+.hero-content{
+
+    color:white;
+
+}
+
+
+.hero-content h1{
+
+    font-size:80px;
+
+}
+
+
+.hero-content p{
+
+    font-size:22px;
+    margin:20px;
+
+}
+
+
+button{
+
+    padding:15px 35px;
+    border:none;
+    background:#00a896;
+    color:white;
+    font-size:18px;
+    border-radius:30px;
+
+}
+
+
+
+
+/* About */
+
+
+.about{
+
+    text-align:center;
+    padding:60px 15%;
+
+}
+
+
+.about h2,
+.places h2,
+.food h2{
+
+    font-size:40px;
+    margin-bottom:20px;
+
+}
+
+
+
+
+
+/* Places */
+
+
+.places{
+
+    padding:50px 8%;
+
+}
+
+
+
+.cards{
+
+    display:flex;
+    justify-content:center;
+    gap:30px;
+
+}
+
+
+
+.card{
+
+    width:300px;
+    background:white;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 5px 15px gray;
+
+}
+
+
+.card img{
+
+    width:100%;
+    height:200px;
+    object-fit:cover;
+
+}
+
+
+.card h3{
+
+    padding:15px;
+    font-size:25px;
+
+}
+
+
+.card p{
+
+    padding:0 15px 20px;
+
+}
+
+
+
+
+/* Food */
+
+
+.food{
+
+    text-align:center;
+    padding:60px;
+
+}
+
+
+
+.food-list{
+
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+
+}
+
+
+
+.food-list span{
+
+    background:white;
+    padding:20px 30px;
+    border-radius:30px;
+    box-shadow:0 3px 10px gray;
+
+}
+
+
+
+/* Footer */
+
+
+footer{
+
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:30px;
+
+}
+
+
+
+/* Responsive */
+
+
+@media(max-width:768px){
+
+
+nav{
+
+    flex-direction:column;
+    height:auto;
+    padding:20px;
+
+}
+
+
+.cards{
+
+    flex-direction:column;
+    align-items:center;
+
+}
+
+
+.hero-content h1{
+
+    font-size:50px;
+
+}
+
+
+}

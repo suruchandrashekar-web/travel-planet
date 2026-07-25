@@ -1,0 +1,431 @@
+{
+  "readstory": [
+    {
+      "id": 1,
+      "image": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_62lsko73c95nnf5k1gqamkt95p/-FWEBP-Ro:5,w:720,h:720,n:default",
+      "date": "July 18, 2026",
+      "time": "3 Min Read",
+      "heading": "How to choose the best hotel for your next trip",
+      "button": "Read story"
+    },
+    {
+        "id":2,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_gontf26fi166p4qb329ieeom3n/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"july 17 2026",
+        "time":"7 Min Read",
+        "heading":"How to Hike the Path of the Gods on Italy's Amalfi Coast",
+          "button": "Read story"
+    },
+    {
+        "id":3,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_bqag93icol4tn5r5a9sij3mn1q/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"july 17 2026",
+        "time":"10 Min Read",
+        "heading":"22 things to know before visiting Amsterdam",
+         "button": "Read story"
+    },
+    {
+        "id":4,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_vlanom25jt603ffugm154p396j/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"june 16 2026",
+        "time":"12 Min Read",
+        "heading":"How to explore the Appian Way, Rome's ancient highway",
+         "button": "Read story"
+    },
+    {
+        "id":5,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ep5ini6ll12qd0ka52cl4vce1s/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"july 11 2026",
+        "time":"30 Min Read",
+        "heading":"Our 8 best budget travel tips",
+         "button": "Read story"
+    },
+    {
+      "id":6,
+      "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_6omjol3n69291epcbs78f9tj5b/-FWEBP-Ro:5,w:720,h:720,n:default",
+      "date":"july 01 2026",
+      "time":"31 Min Read",
+      "heading" :"17 top things to do in Luxembourg",
+       "button": "Read story"  
+    },
+    {
+        "id":7,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_3tefgk62hd7qr74t5fn2t2t141/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date ": "june 29 2026",
+        "time":"31 Min Read",
+        "heading":"A guide to all 20 arrondissements in Paris",
+         "button": "Read story"
+    },
+    {
+        "id":8,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_hn700hs3h92b9afb9kjuf5v56e/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"june 25 2026",
+        "time":"21 Min read",
+        "heading":"The ultimate road trip through Tuscany",
+         "button": "Read story"
+    },
+    {
+        "id":9,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_uogleurh6l2opfj37756mt2k6j/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"june 24 2026",
+        "time":"22 Min Read",
+        "heading":"Where to eat and drink in Paris (according to a local)",
+         "button": "Read story"
+    },
+    {
+        "id":10,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_htg91194ch4ol93qcvlet1ip3d/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"june 23 2026",
+        "time":"45 Min Read",
+        "heading":"11 perfect day trips from Chicago",
+         "button": "Read story"
+    },
+    {
+        "id":11,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_m5set4msh535pe8ta4vdhujq2j/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"june 12 2026",
+        "time":"55 Min Read",
+        "heading":"The best tropical vacation destinations on a budget",
+         "button": "Read story"
+    },
+    {
+        "id":12,
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_j93gca7mf14eb10ofp49jhoe7f/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "date":"june 01 2026",
+        "time":"58 Min Read",
+        "heading":"11 of the best new and upcoming shows on Broadway, NYC",
+         "button": "Read story"
+    }
+  ],
+  "places": [
+    {
+     "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/443dc4d3-630a-41cc-bc93-6225afa2cc83/Hero/b95f5992ed3a09a6c2b45c8cfd71a738.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+     "date":"10 DAYS / 9 NIGHTS",
+     "heading":"10 Days in Portugal:Lisbon,Porto,Douro Valley and the Algarve",
+     "button":"VIEW ITINERARY",
+     "from":"$3,492",
+     "person":"per person"
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/43aa56c7-48c2-4912-bf10-99317e8671be/shutterstock_231/08b33c2a547212000537aae887b51671.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+        "date":"11 DAYS / 10 NIGHTS",
+        "heading":"11 Days in Slcily: Taormina, Syracuse and Palermo",
+       "button":"VIEW ITINERARY",
+     "from":"$4,950",
+     "person":"per person"
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/ba801b2d-da37-4f10-b026-0dc75a2d9647/shutterstock_666/61a22c18ce14f265a17f6f0577ce11e1.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+        "date":"10 DAYS / 9 NIGHTS",
+        "heading":"10 Days in Turkiye: Istanbul izmir and Cappadocia",
+       "button":"VIEW ITINERARY",
+     "from":"$2,995",
+     "person":"per person"
+    },
+    {
+    "image":"https://ew-media-production.imgix.net/media/53fc1e50-1b09-44c9-8400-dba68bd3064e/image/fe4cb7db-e1fb-47e5-951a-69beaf366ed6/shutters_t1CaFAD/15f7c3858f6438cb50efdf52f2794852.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+    "date":"14 DAYS / 13 NIGHTS",
+        "heading":"Japan's Golden Route: Tokyo,Kanazawa,Kyoto,and Fuji in 14 Days",
+       "button":"VIEW ITINERARY",
+     "from":"$6,820",
+     "person":"per person"
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/10c09932-f626-4aa9-bd54-00205ba16ff6/shutters_JAcoh2k/995651c65fcbc4eaf63335fc5e5c8315.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+        "date":"13 DAYS / 12 NIGHTS",
+        "heading":"13 Days in Kerala: Culinary India",
+       "button":"VIEW ITINERARY",
+     "from":"$5,440",
+     "person":"per person"
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/d5c14fd4-072e-43c6-9073-34edbf80b683/image/6cf1fdbb-4fd5-43af-ae10-7707795e834d/LPT0714__y5Atke2/fd82ec902a0ff9ec85bc7fcf7c414bd2.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+         "date":"7 DAYS / 6 NIGHTS",
+        "heading":"San Miguel de Allende's Cusinie,Culture, and Crafts in One Week",
+       "button":"VIEW ITINERARY",
+     "from":"$6,500",
+     "person":"per person"
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/f0ca3ffe-c6c4-4f16-8acf-a3d6b940cfc3/image/78a0b5d6-db4b-426b-b6af-2dfe49712917/shutterstock_255/50c0e10081d5a74cad002d9f71cab17b.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+        "date":"11 DAYS / 10 NIGHTS",
+        "heading":"11 Days in France: Provence and the French Riviera",
+       "button":"VIEW ITINERARY",
+     "from":"$4,430",
+     "person":"per person" 
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/f1c7a4c4-a9c7-49c3-81a0-2ce7a4540b9d/image/81f19e92-11fd-459c-b9e5-6bc548213bfa/photo-1_6OG4yuh/d58a00c195e8a51fe02511ddf0bfbadd.jpeg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+ "date":"17 DAYS / 16 NIGHTS",
+        "heading":"14 Days in The Philippines Land,Sea, and Culture",
+       "button":"VIEW ITINERARY",
+     "from":"$11,430",
+     "person":"per person" 
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/c4821315-60fb-40b7-a08c-82cbf59ca870/AlamyRF_FJCH2K/d52f3c0796dadb5ca8639e04941ac963.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+        "date":"8 DAYS / 7 NIGHTS",
+        "heading":"8 Days in Costa Rica : Wild Whilewatee and Rugged Rainforests",
+       "button":"VIEW ITINERARY",
+     "from":"$1,430",
+     "person":"per person" 
+
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/b34a15cd-d596-4e25-86e2-604147372569/image/23edf6f6-a959-4d6d-9ec1-2a0099289d3f/GettyIma_gUmkcWz/18e634f6afb7f087d070fa14dad5ea1d.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+         "date":"7 DAYS / 6 NIGHTS",
+        "heading":"7 Days in South Korea: Seoul Busan and Gyeongju",
+       "button":"VIEW ITINERARY",
+     "from":"$2,430",
+     "person":"per person" 
+
+    },
+    {
+     "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/5def9cfb-52b2-48c1-a2be-9f69230eee78/Dorsa_LP_Iceland/fd9e7f4d40a03867a811d4e8895c3132.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+       "date":"8 DAYS / 7 NIGHTS",
+        "heading":"8 Days in Iceland: The Ring Road",
+       "button":"VIEW ITINERARY",
+     "from":"$5,430",
+     "person":"per person" 
+
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/961ade68-51ea-4614-915a-ec065bba24cf/shutterstockRF_1/9d47125b990a98589d961b92bfac4f08.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+        "date":"12 DAYS / 11 NIGHTS",
+        "heading":"12 Days in South Africa: Cape Town, Wine Country and The Garden Route",
+       "button":"VIEW ITINERARY",
+     "from":"$3,430",
+     "person":"per person" 
+
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/c93c52b8-f279-4528-8a81-37de790ace28/image/d9ebd6ad-bb5c-4d37-964e-ac1aff135232/Hero_shu_lB49gFv/93eed0d86285bad98f6af989a29c2e3a.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+          "date":"14 DAYS / 13 NIGHTS",
+        "heading":"14 Days in Peru: Lima,Cusco,Andes and Machu Picchu",
+       "button":"VIEW ITINERARY",
+     "from":"$4,430",
+     "person":"per person" 
+
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/c7b83d98-577e-4f50-b9b2-27b32069b9bf/image/ad7d5484-0c58-40fc-bd56-d13a8865999a/shutters_TnsQGRP/79cf4394514da279d771375fd7706fef.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+          "date":"11 DAYS / 10 NIGHTS",
+        "heading":"11 Days in Italy: Venice,Rome and Florence",
+       "button":"VIEW ITINERARY",
+     "from":"$5,530",
+     "person":"per person" 
+
+    },
+    {
+        "image":"https://ew-media-production.imgix.net/media/6621cae0-bc8e-42b8-bbaa-1ec7cfcbaabb/image/4de42653-5604-4b21-8913-b857093b1785/Resize_828368366/5390cc48a6e6518f524e6a3dc983b5fe.jpg?auto=format,compress&q=72&fit=crop&w=720&ar=1:1",
+         "date":"10 DAYS / 9 NIGHTS",
+        "heading":"10 Days in South Australia The Outback, Barossa and Eyre Peninsula",
+       "button":"VIEW ITINERARY",
+     "from":"$5,530",
+     "person":"per person" 
+    }
+  ],
+      "readstorys1":[
+         {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_g4jljnmue52uhamgp24h29rq2v/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "date":"JUL 8, 2026",
+          "time":"9 MIN READ",
+          "heading":"The perfect trail is out there",
+          "button":"READ STORY"
+         },
+         {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o53vagpeu520d4t4jn8qgk0m3s/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "date":"JUL 7, 2026",
+          "time":"35 MIN READ",
+          "heading":"Hike the greatest national parks in the US",
+           "button":"READ STORY"
+         },
+         {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_fpq7b5pr8h1kl6a2b7199a683v/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "date":"JUL 6, 2026",
+          "time":"24 MIN READ",
+          "heading":"Spectacular multi-day treks all over the world",
+             "button":"READ STORY"
+         },
+         {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_62vo4k2d6l08r2cvt8sn94ng78/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "date":"JUN 15, 2026",
+          "time":"10 MIN READ",
+          "heading":"An invitation to Sardinia: how to get to know the island",
+          "button":"READ STORY"
+         },
+         {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_utpcn5focp52bbeekoh6r5er3u/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "date":"JUN 24, 2026",
+          "time":"34 MIN READ",
+          "heading":"The 15 best things to do in Colorado in the summer",
+          "button":"READ STORY"
+         }
+      ],
+      "discover":[
+        {
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mdmeb4u5al7vj00dm2d4lp0u77/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "city":"EUROPE",
+        "country":"England",
+        "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_9kqql0pks14shdppf1rb2u1p0v/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"AFRICA",
+          "country":"South Africa",
+                  "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_jotfbo78i50ub67fpn10spio3d/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"EUROPE",
+          "country":"Portugal",
+          "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_3mq6j949f55635uo4ns8snej59/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"EUROPE",
+          "country":"TurKiye",
+           "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mu2nc6d27d5nj86b7d6lm38s4e/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"EUROPE",
+          "country":"Norway",
+           "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_stcaee6aut58n5enq9vimbhr20/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"AFRICA",
+          "country":"Morocco",
+           "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_0946uo3nlp7g5d3oa0fqbp2l4o/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"ENGLAND",
+          "country":"Devon & Cornwall",
+          "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_mu2nc6d27d5nj86b7d6lm38s4e/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"ITALY",
+          "country":"Sicily",
+          "button":"DISCOVER"
+        },
+        {
+          "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ibsqkci8et1eb2q7jap9prco5j/-FWEBP-Ro:5,w:720,h:720,n:default",
+          "city":"ENGLAND",
+          "country":"London",
+           "button":"DISCOVER"
+                },
+          {
+        "image":"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_nr2ddiij4t2fn0k0kuqhdbjj3p/-FWEBP-Ro:5,w:720,h:720,n:default",
+        "city":"EUROPE",
+        "country":"Slovenia",
+        "button":"DISCOVER"
+                }
+      ],
+      
+      "location":[
+        {
+        "place":"read stoerys",
+        "loca":"../stort/story1.html"
+        },
+        {
+          "place":"view itinerary",
+          "loca":"../viewintensity/viewintensity.html"
+        },
+        {
+          "place":"best selling guides",
+          "loca":"../sellingbooks/sellingbooks.html"
+        },
+        {
+          "place":"inspiration",
+          "loca":"../articles/articles.html"
+        },
+        {
+          "place":"planning",
+          "loca":"../planing/planing1.html"
+        },
+
+
+        {
+          "place":"virat kohli",
+       "loca":"../planing/planing1.html"
+        },
+        {
+          "place":"lonely planet",
+           "loca":"../planing/planing1.html"
+        },
+        {
+          "place":"ms dhoni",
+           "loca":"../planing/planing1.html"
+        },
+        {
+          "place":"england",
+          "loca":"../discover1/discover1.html"
+        },
+        {
+          "plcae":"south africa",
+          "loca":"../discover2/discover2.html"
+        },
+        {
+          "place":"portugal",
+          "loca":"../discover3/discover3.html"
+        },
+        {
+          "place":"turkiye",
+          "loca":"../discover4.html/discover4.html"
+        },
+        {
+          "place":"norway",
+          "loca":"../discover5/discover5/html"
+        },
+        {
+          "place":"moroccod",
+          "loca":"../discover6/discover6.html"
+        },
+        {
+          "place":"devon cornwall",
+          "loca":"../discover7/discover7.html"
+        },
+        {
+          "place":"sicily",
+          "loca":"../discover8/discover8.html"
+        },
+        {
+          "place":"london",
+          "loca":"../discover9/discover9.html"
+        },
+        {
+          "plcae":"slovenia",
+          "loca":"../discover10/discover10.html"
+        },
+        {
+          "place":"subsrcibe",
+          "loca":"../subscribe/subscribe.html"
+        },
+        {
+          "place":"instragram",
+          "loca":"../subscribe/subscribe.html"
+        },
+        {
+          "place":"adventure awaits",
+          "loca":"../discover9/discover9.html"
+        },
+        {
+          "place":"summer list",
+          "loca":"../discover4.html/discover4.html"
+        },
+        {
+          "place":"select market",
+          "loca":"../discover2/discover2.html"
+        }
+      ]
+     
+
+}
+
+
+
+
+
