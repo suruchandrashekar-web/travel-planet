@@ -250,48 +250,48 @@ subscribe.addEventListener("click", function () {
 
 let backgroundbtn=document.querySelector(".backgroundbtn");
 backgroundbtn.addEventListener("click",function(){
-    window.location.href="../readmore1/readmore.html"
+    window.location.href="readmore1/readmore.html"
 })
 
 
 let downloadBTN1 =document.querySelector(".downloadBTN1");
 downloadBTN1.addEventListener("click",function(){
-    window.location.href="../viewlist/viewlist.html"
+    window.location.href="viewlist/viewlist.html"
 })
 
 let downloadBTN2=document.querySelector(".downloadBTN2");
 downloadBTN2.addEventListener("click",function(){
-    window.location.href="../download/download.html"
+    window.location.href="download/download.html"
 })
 
 
 let sevenbtn =document.querySelector(".sevenbtn");
 sevenbtn.addEventListener("click", function(){
-    window.location.href="../cars/cars.html";
+    window.location.href="cars/cars.html";
 })
 
 
 let tenjsonbtn =document.querySelector(".tenjsonbtn");
 tenjsonbtn.addEventListener("click",function(){
-    window.location.href="../sellingbooks/sellingbooks.html";
+    window.location.href="sellingbooks/sellingbooks.html";
 });
 
 function inspiration(){
-    window.location.href="../articles/articles.html";
+    window.location.href="articles/articles.html";
 }
 
 function planing(){
-    window.location.href="../planing/planing1.html";
+    window.location.href="planing/planing1.html";
 }
 
 let cart =document.querySelector(".cart");
 cart.addEventListener("click",function(){
-    window.location.href="../cart/cart.html";
+    window.location.href="cart/cart.html";
 })
 
 let terms=document.querySelector(".terms");
 terms.addEventListener("click" ,function(){
-    window.location.href="../termsandcontions/terms.html";
+    window.location.href="termsandcontions/terms.html";
 })
 
 let privacy =document.querySelector(".privacy1");
