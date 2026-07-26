@@ -328,97 +328,97 @@
       "location":[
         {
         "place":"read stoerys",
-        "loca":"../stort/story1.html"
+        "loca":"stort/story1.html"
         },
         {
           "place":"view itinerary",
-          "loca":"../viewintensity/viewintensity.html"
+          "loca":"viewintensity/viewintensity.html"
         },
         {
           "place":"best selling guides",
-          "loca":"../sellingbooks/sellingbooks.html"
+          "loca":"sellingbooks/sellingbooks.html"
         },
         {
           "place":"inspiration",
-          "loca":"../articles/articles.html"
+          "loca":"articles/articles.html"
         },
         {
           "place":"planning",
-          "loca":"../planing/planing1.html"
+          "loca":"planing/planing1.html"
         },
 
 
         {
           "place":"virat kohli",
-       "loca":"../planing/planing1.html"
+       "loca":"planing/planing1.html"
         },
         {
           "place":"lonely planet",
-           "loca":"../planing/planing1.html"
+           "loca":"planing/planing1.html"
         },
         {
           "place":"ms dhoni",
-           "loca":"../planing/planing1.html"
+           "loca":"planing/planing1.html"
         },
         {
           "place":"england",
-          "loca":"../discover1/discover1.html"
+          "loca":"discover1/discover1.html"
         },
         {
           "plcae":"south africa",
-          "loca":"../discover2/discover2.html"
+          "loca":"discover2/discover2.html"
         },
         {
           "place":"portugal",
-          "loca":"../discover3/discover3.html"
+          "loca":"discover3/discover3.html"
         },
         {
           "place":"turkiye",
-          "loca":"../discover4.html/discover4.html"
+          "loca":"discover4.html/discover4.html"
         },
         {
           "place":"norway",
-          "loca":"../discover5/discover5/html"
+          "loca":"discover5/discover5/html"
         },
         {
           "place":"moroccod",
-          "loca":"../discover6/discover6.html"
+          "loca":"discover6/discover6.html"
         },
         {
           "place":"devon cornwall",
-          "loca":"../discover7/discover7.html"
+          "loca":"discover7/discover7.html"
         },
         {
           "place":"sicily",
-          "loca":"../discover8/discover8.html"
+          "loca":"discover8/discover8.html"
         },
         {
           "place":"london",
-          "loca":"../discover9/discover9.html"
+          "loca":"discover9/discover9.html"
         },
         {
           "plcae":"slovenia",
-          "loca":"../discover10/discover10.html"
+          "loca":"discover10/discover10.html"
         },
         {
           "place":"subsrcibe",
-          "loca":"../subscribe/subscribe.html"
+          "loca":"subscribe/subscribe.html"
         },
         {
           "place":"instragram",
-          "loca":"../subscribe/subscribe.html"
+          "loca":"subscribe/subscribe.html"
         },
         {
           "place":"adventure awaits",
-          "loca":"../discover9/discover9.html"
+          "loca":"discover9/discover9.html"
         },
         {
           "place":"summer list",
-          "loca":"../discover4.html/discover4.html"
+          "loca":"discover4.html/discover4.html"
         },
         {
           "place":"select market",
-          "loca":"../discover2/discover2.html"
+          "loca":"discover2/discover2.html"
         }
       ]
      

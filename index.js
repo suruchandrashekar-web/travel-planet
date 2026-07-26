@@ -20,29 +20,29 @@ function storydata(data) {
 
 function readstory1(index){
     if(index===0){
-        window.location.href="../readstory1/readstory1.html";
+        window.location.href="readstory1/readstory1.html";
     }else if(index===1){
-        window.location.href="../readstory2/readstory2.html";
+        window.location.href="readstory2/readstory2.html";
     }else if(index===2){
-        window.location.href="../readstory3/readstory3.html";
+        window.location.href="readstory3/readstory3.html";
     }else if(index===3){
-        window.location.href="../readstory4/readstory4.html";
+        window.location.href="readstory4/readstory4.html";
     }else if(index===4){
-          window.location.href="../readstory5/readstory5.html";
+          window.location.href="readstory5/readstory5.html";
     }else if(index===5){
-          window.location.href="../readstory6/readstory6.html";
+          window.location.href="readstory6/readstory6.html";
     }else if(index===6){
-          window.location.href="../readstory7/readstory7.html";
+          window.location.href="readstory7/readstory7.html";
     }else if(index===7){
-          window.location.href="../readstory8/readstory.html";
+          window.location.href="readstory8/readstory.html";
     }else if(index===8){
-          window.location.href="../readstory9/readstory.html";
+          window.location.href="readstory9/readstory.html";
     }else if(index===9){
-          window.location.href="../readstory10/readstory10.html";
+          window.location.href="readstory10/readstory10.html";
     }else if(index===10){
-          window.location.href="../readstory11/readstory11.html";
+          window.location.href="readstory11/readstory11.html";
     }else if(index===11){
-          window.location.href="../readstory12/readstory12.html";
+          window.location.href="readstory12/readstory12.html";
     }
 }
 getdata();
@@ -76,35 +76,35 @@ function storedata1(data){
 
 function viewintensity(index){
     if(index===0){
-        window.location.href="../viewintensity/viewintensity.html"
+        window.location.href="viewintensity/viewintensity.html"
     }else if(index===1){
-        window.location.href="../viewintensity2/viewintensity2.html"
+        window.location.href="viewintensity2/viewintensity2.html"
     }else if(index===2){
-        window.location.href="../viewintensity3.html/viewintensity3.html"
+        window.location.href="viewintensity3.html/viewintensity3.html"
     }else if(index===3){
-        window.location.href="../viewintensity4/viewintensity4.html"
+        window.location.href="viewintensity4/viewintensity4.html"
     }else if(index===4){
-        window.location.href="../viewintensity5/viewintensity5.html"
+        window.location.href="viewintensity5/viewintensity5.html"
     }else if(index===5){
-        window.location.href="../viewintensity6/viewintensity6.html"
+        window.location.href="viewintensity6/viewintensity6.html"
     }else if(index===6){
-        window.location.href="../viewintensity7/viewintensity7.html"
+        window.location.href="viewintensity7/viewintensity7.html"
     }else if(index===7){
-        window.location.href="../viewintensity8/viewintensity8.html"
+        window.location.href="viewintensity8/viewintensity8.html"
     }else if(index===8){
-        window.location.href="../viewintensity9/viewintensity9.html"
+        window.location.href="viewintensity9/viewintensity9.html"
     }else if(index===9){
-        window.location.href="../viewintensity10/viewintensity10.html"
+        window.location.href="viewintensity10/viewintensity10.html"
     }else if(index===10){
-        window.location.href="../viewintensity11/viewintensity11.html"
+        window.location.href="viewintensity11/viewintensity11.html"
     }else if(index===11){
-        window.location.href="../viewintensity12/viewintensity12.html"
+        window.location.href="viewintensity12/viewintensity12.html"
     }else if(index===12){
-        window.location.href="../viewintensity13/viewintensity13.html"
+        window.location.href="viewintensity13/viewintensity13.html"
     }else if(index===13){
-        window.location.href="../viewintensity14/viewintensity14.html"
+        window.location.href="viewintensity14/viewintensity14.html"
     }else if(index===14){
-        window.location.href="../viewintensity15/viewintensity15.html"
+        window.location.href="viewintensity15/viewintensity15.html"
     }
 }
 
@@ -142,15 +142,15 @@ readstorys();
    
 function readst(index){
     if(index===0){
-        window.location.href="../story1/story1.html";
+        window.location.href="story1/story1.html";
     }else if(index===1){
-        window.location.href="../story2/story2.html";
+        window.location.href="story2/story2.html";
     }else if(index===2){
-        window.location.href="../stort3/story3.html";
+        window.location.href="stort3/story3.html";
     }else if(index===3){
-        window.location.href="../story4/story4.html";
+        window.location.href="story4/story4.html";
     }else if(index===4){
-        window.location.href="../story5/story5.html";
+        window.location.href="story5/story5.html";
     }
 }
 
@@ -183,25 +183,25 @@ function discover1(data){
 }
  function openDiscover(index){
     if(index===0){
-        window.location.href="../discover2/discover2.html";
+        window.location.href="discover2/discover2.html";
     }else if(index === 1){
-         window.location.href="../discoverl/discover1.html";
+         window.location.href="discoverl/discover1.html";
     }else if(index===2){
-        window.location.href="../discover3/discover3.html";
+        window.location.href="discover3/discover3.html";
     }else if(index===3){
-        window.location.href="../discover4/discover4.html";
+        window.location.href="discover4/discover4.html";
     }else if(index===4){
-        window.location.href="../discover5/discover5.html";
+        window.location.href="discover5/discover5.html";
     }else if(index===5){
-        window.location.href="../discover6/discover6.html";
+        window.location.href="discover6/discover6.html";
     }else if(index===6){
-        window.location.href="../discover7/discover7.html";
+        window.location.href="discover7/discover7.html";
     }else if(index===7){
-        window.location.href="../discover8/discover8.html";
+        window.location.href="discover8/discover8.html";
     }else if(index===8){
-        window.location.href="../discover9/discover9.html";
+        window.location.href="discover9/discover9.html";
     }else if(index===9){
-        window.location.href="../discover10/discover10.html";
+        window.location.href="discover10/discover10.html";
     }
  }
 discover();
