@@ -31,7 +31,7 @@ button.addEventListener("click", function () {
 
         alert("Login Successful");
 
-        window.location.href = "../main.html";
+        window.location.href = "main.html";
 
     }
     else {
@@ -69,6 +69,6 @@ function handleCredentialResponse(response) {
 
     alert("Google Login Successful");
 
-    window.location.href = "../main.html";
+    window.location.href = "main.html";
 
 }
