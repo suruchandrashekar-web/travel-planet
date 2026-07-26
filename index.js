@@ -296,13 +296,13 @@ terms.addEventListener("click" ,function(){
 
 let privacy =document.querySelector(".privacy1");
 privacy.addEventListener("click",function(){
-    window.location.href="../termsandcontions/terms.html";
+    window.location.href="termsandcontions/terms.html";
 })
 
 
 let fliter =document.querySelector(".fliter");
 fliter.addEventListener("click",function(){
-    window.location.href="../fliter/fliter.html";
+    window.location.href="fliter/fliter.html";
 })
 
 
