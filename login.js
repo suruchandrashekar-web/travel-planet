@@ -31,7 +31,7 @@ button.addEventListener("click", function () {
 
         alert("Login Successful");
 
-        window.location.href = "./main.html";
+        window.location.href = "../main.html";
 
     }
     else {
@@ -42,15 +42,16 @@ button.addEventListener("click", function () {
 
 });
 
-
 window.onload = function () {
 
     google.accounts.id.initialize({
         client_id: "994655521297-l33lrkmbpr33oi8efhg6t8vj4mormmmt.apps.googleusercontent.com",
-        callback: handleCredentialResponse
-
+        callback: handleCredentialResponse,
+        auto_select: false
     });
+
     let buttonWidth = Math.min(window.innerWidth - 40, 350);
+
     google.accounts.id.renderButton(
         document.getElementById("googleBtn"),
         {
@@ -59,6 +60,7 @@ window.onload = function () {
             width: buttonWidth
         }
     );
+
 };
 
 function handleCredentialResponse(response) {
