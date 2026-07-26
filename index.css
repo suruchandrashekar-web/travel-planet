@@ -1794,3 +1794,346 @@ border: 1px solid black;
         width:100%;
     }
 }
+
+
+
+/* ==========================
+   MOBILE RESPONSIVE
+========================== */
+
+@media screen and (max-width:768px){
+
+    *{
+        max-width:100%;
+    }
+
+    html,body{
+        width:100%;
+        overflow-x:hidden;
+    }
+
+    .main{
+        width:100%;
+        overflow-x:hidden;
+    }
+
+    .navbar{
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+        height:auto;
+        padding:15px;
+        gap:15px;
+    }
+
+    .logoimagenavbar{
+        width:100%;
+        text-align:center;
+    }
+
+    .search-box{
+        width:100%;
+    }
+
+    .search-box input{
+        width:100%;
+    }
+
+    .navbarinnerbox nav ul{
+        flex-direction:column;
+        gap:12px;
+    }
+
+    .navbarinnerbox1{
+        width:100%;
+        justify-content:center;
+        margin-left:0;
+    }
+
+    .mega-menu{
+        display:none;
+    }
+
+    .backgroundimage{
+        padding:20px;
+    }
+
+    .OFFSEASONtravel{
+        font-size:32px;
+        line-height:42px;
+    }
+
+    .bacgroundinner{
+        width:100%;
+    }
+
+    .download,
+    .sevencar,
+    .tenselling,
+    .sixtheen{
+        flex-direction:column;
+    }
+
+    .downloadinner1,
+    .downloadinner2,
+    .sevencarinner,
+    .sevencarinner2,
+    .tenselling1,
+    .sixtheeninner,
+    .sixtheeninner2{
+        width:100%;
+    }
+
+    img{
+        max-width:100%;
+        height:auto;
+    }
+
+    .readstorybox,
+    .sixjson1,
+    .eight1,
+    .fourth{
+        width:260px;
+    }
+
+    .latesttravelstories,
+    .bookyourdreamticketinner,
+    .Subscribeheading,
+    .elevenheading1,
+    .teethteeninner{
+        font-size:32px;
+    }
+
+    .container{
+        flex-direction:column;
+    }
+
+    .inputtype,
+    .Subscribenow,
+    .signup,
+    .Appstroe,
+    .Googleplay{
+        width:100%;
+    }
+
+    .seventheen{
+        flex-direction:column;
+        text-align:center;
+        gap:15px;
+    }
+
+}
+
+
+/* ==========================================
+   COMPLETE MOBILE RESPONSIVE CSS
+   Paste at the END of your CSS file
+========================================== */
+
+html,
+body{
+    width:100%;
+    overflow-x:hidden;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing:border-box;
+}
+
+img,
+iframe,
+video{
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+
+/* Tablet */
+@media screen and (max-width:992px){
+
+    .navbar{
+        flex-wrap:wrap;
+        height:auto;
+        padding:15px;
+    }
+
+    .download,
+    .sevencar,
+    .tenselling,
+    .sixtheen{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .downloadinner1,
+    .downloadinner2,
+    .sevencarinner,
+    .sevencarinner2,
+    .tenselling1,
+    .sixtheeninner,
+    .sixtheeninner2{
+        width:100%;
+        max-width:100%;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width:768px){
+
+    html,
+    body{
+        overflow-x:hidden;
+    }
+
+    .navbar{
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+        height:auto;
+        padding:15px;
+        gap:15px;
+        position:static;
+    }
+
+    .logoimagenavbar{
+        width:160px;
+    }
+
+    .search-box{
+        width:100%;
+    }
+
+    .search-box input{
+        width:100%;
+    }
+
+    .search-box button{
+        width:50px;
+    }
+
+    .navbarinnerbox nav ul{
+        flex-direction:column;
+        gap:10px;
+    }
+
+    .navbarinnerbox1{
+        width:100%;
+        justify-content:center;
+        margin-left:0;
+    }
+
+    .cart,
+    .signin{
+        width:120px;
+    }
+
+    .mega-menu{
+        display:none;
+    }
+
+    .backgroundimage{
+        padding:20px;
+    }
+
+    .wheretogo{
+        font-size:22px;
+    }
+
+    .OFFSEASONtravel{
+        font-size:32px;
+        line-height:42px;
+    }
+
+    .bacgroundinner{
+        width:100%;
+    }
+
+    .latesttravelstories,
+    .bookyourdreamticketinner,
+    .Subscribeheading,
+    .elevenheading1,
+    .teethteeninner{
+        font-size:32px;
+    }
+
+    .download,
+    .sevencar,
+    .tenselling,
+    .sixtheen,
+    .container{
+        flex-direction:column;
+    }
+
+    .downloadinner1,
+    .downloadinner2,
+    .sevencarinner,
+    .sevencarinner2,
+    .tenselling1,
+    .sixtheeninner,
+    .sixtheeninner2{
+        width:100%;
+    }
+
+    .readstorybox,
+    .sixjson1,
+    .eight1,
+    .fourth{
+        width:260px;
+    }
+
+    .inputtype,
+    .Subscribenow,
+    .signup,
+    .Appstroe,
+    .Googleplay,
+    .dropbtn{
+        width:100%;
+    }
+
+    .inputlast input{
+        width:100%;
+    }
+
+    .seventheen{
+        flex-direction:column;
+        text-align:center;
+        gap:15px;
+    }
+}
+
+/* Small Mobile */
+@media screen and (max-width:480px){
+
+    h1{
+        font-size:28px;
+    }
+
+    h2{
+        font-size:22px;
+    }
+
+    h3{
+        font-size:18px;
+    }
+
+    p{
+        font-size:15px;
+    }
+
+    .OFFSEASONtravel{
+        font-size:28px;
+        line-height:38px;
+    }
+
+    .backgroundbtn,
+    .downloadBTN1,
+    .downloadBTN2,
+    .sevenbtn,
+    .tenjsonbtn,
+    .Subscribenow,
+    .signup{
+        width:100%;
+    }
+}
