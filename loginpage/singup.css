@@ -18,6 +18,7 @@ body{
     background-position:center;
 
     background-repeat:no-repeat;
+       overflow-x:hidden;
 }
 
 
@@ -373,3 +374,96 @@ label{
     font-weight:bold;
 
 }
+
+
+
+/* ===========================
+   MOBILE RESPONSIVE
+=========================== */
+
+@media screen and (max-width:768px){
+
+    html,
+    body{
+        width:100%;
+        overflow-x:hidden;
+    }
+
+    .main{
+        width:100%;
+        min-height:100vh;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        padding:20px;
+        gap:30px;
+    }
+
+    .heading-box{
+        width:100%;
+        text-align:center;
+    }
+
+    .heading1{
+        font-size:40px;
+        line-height:50px;
+    }
+
+    .sub-heading{
+        font-size:18px;
+        margin-top:15px;
+    }
+
+    .signup-box{
+        width:100%;
+        max-width:400px;
+        min-height:auto;
+        margin-left:0;
+        padding:20px;
+        border-radius:15px;
+    }
+
+    .signup-box h1{
+        font-size:28px;
+    }
+
+    .signup-box p{
+        font-size:14px;
+    }
+
+    .input-box{
+        width:100%;
+    }
+
+    .input-box input{
+        width:100%;
+    }
+
+    .signup-btn,
+    .social{
+        width:100%;
+    }
+
+    .captcha{
+        width:100%;
+        flex-wrap:wrap;
+        gap:10px;
+    }
+
+    .captcha img{
+        width:35px;
+        height:auto;
+    }
+
+    .login-link{
+        font-size:14px;
+    }
+
+    img{
+        max-width:100%;
+        height:auto;
+    }
+
+}
+
