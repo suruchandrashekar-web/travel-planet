@@ -1,5 +1,5 @@
 async function getdata(){
-    let res=await fetch("http://localhost:3000/readstory");
+    let res=await fetch("https://travel-planet-2.onrender.com/readstory");
     let data=await res.json();
     console.log(data);
     storydata(data);
@@ -55,7 +55,7 @@ getdata();
 
 
 async function getdata1(){
-    let res = await fetch("http://localhost:3000/places");
+    let res = await fetch("https://travel-planet-2.onrender.com/places");
     let data = await res.json();
     console.log(data);
     storedata1(data);
@@ -121,7 +121,7 @@ getdata1();
 
 
 async function readstorys(){
-    let res=await fetch("http://localhost:3000/readstorys1");
+    let res=await fetch("https://travel-planet-2.onrender.com/readstorys1");
     let data=await res.json();
     console.log(data);
     readstorys1(data);
@@ -165,7 +165,7 @@ function readst(index){
 
 
 async function discover(){
-    let res = await fetch("http://localhost:3000/discover");
+    let res = await fetch("https://travel-planet-2.onrender.com/discover");
     let data = await res.json();
     console.log(data);
     discover1(data);

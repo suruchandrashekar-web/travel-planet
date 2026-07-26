@@ -4,7 +4,7 @@ let result=document.querySelector(".result");
 
 
 async function read(){
-    let res=await fetch("http://localhost:3000/location");
+    let res=await fetch("https://travel-planet-2.onrender.com/location");
     let data= await res.json();
     console.log(data);
     write(data);
