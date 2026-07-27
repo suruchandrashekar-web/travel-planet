@@ -29,7 +29,7 @@ updateBtn.addEventListener("click", function(e){
         alert("Password Updated Successfully");
         localStorage.removeItem("otp");
         localStorage.removeItem("userEmail");
-        window.location.href = "../loginpage/login.html";
+        window.location.href = "loginpage/login.html";
     }
     else{
         alert("User not found");
